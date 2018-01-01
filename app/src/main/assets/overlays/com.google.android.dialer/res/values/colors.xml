@@ -1,0 +1,7 @@
+<resources>
+    <color name="incall_background_gradient_bottom">#99000000</color>
+    <color name="incall_background_gradient_middle">#99000000</color>
+    <color name="incall_background_gradient_top">#99000000</color>
+    <color name="incall_background_multiwindow">#99000000</color>
+    <color name="incall_background_multiwindow">#99000000</color>
+</resources>

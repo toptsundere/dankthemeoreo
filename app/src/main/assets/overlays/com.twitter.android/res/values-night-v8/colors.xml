@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- VALUES FOR NIGHT MODE/Black !-->
+
+    <!-- Status bar background: doesn't work fully! !-->
+    <color name="status_bar_color">#ff000000</color>
+    <!-- Status bar fix !-->
+    <color name="status_bar_transluscent">#ff000000</color>
+
+    <!-- Background !-->
+    <color name="app_background">#ff000000</color>
+
+    <!-- Toolbar background !-->
+    <color name="toolbar_bg_color">#ff000000</color>
+
+    <!-- Separations !-->
+    <color name="faded_gray">#ff000000</color>
+
+</resources>

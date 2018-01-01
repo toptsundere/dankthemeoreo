@@ -1,0 +1,13 @@
+<resources>
+    <!--Backgrounds-->
+    <!--Tweets-->
+    <color name="app_background">#ff232329</color>   <!--OG:#ff1b2836-->
+    <!--BG behind tweets-->
+    <color name="faded_gray">#ff1b1b21</color>   <!--OG:#ff141d26-->
+    <!--Statusbar-->
+    <color name="status_bar_color">#ff16161c</color>   <!--OG:@color/app_background-->
+    <!-- Status bar fix !-->
+    <color name="status_bar_transluscent">#ff16161c</color>
+    <!--Actionbar-->
+    <color name="toolbar_bg_color">#ff1b1b21</color>
+</resources>
