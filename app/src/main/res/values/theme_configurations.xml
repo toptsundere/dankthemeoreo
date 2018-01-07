@@ -26,12 +26,11 @@
     <string name="ThemeHeroOverride">auto</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Updated to the latest theme template version</item>
-        <item>Fonts: Updated ProductFrancisco</item>
-        <item>Android System: added new accent colours, Oreo only!</item>
-        <item>Twitter: fixed status bar being faulty when using the light theme, added system accent only option</item>
-        <item>"Samsung Browser: updated with ohayoubaka's overlay, OG accent again"</item>
-        <item>Phone: small fix</item>
-        <item>Telegram: light status + navigation bar (8.1+ only!)</item>
+        <item>Added new adaptive icon</item>
+        <item>Added back Gboard overlay</item>
+        <item>Added SystemUI overlay to make 8.1 quick settings opaque</item>
+        <item>Added disclaimers for some overlays</item>
+        <item>Temporarily removed Telegram overlay due to it crashing</item>
+        <item>Corrected a small stupid mistake for Google Dialer</item>
     </string-array>
 </resources>
